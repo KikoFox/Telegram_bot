@@ -1,0 +1,5 @@
+requests>=2.26.0
+pyTelegramBotAPI>=4.1.0
+python-telegram-bot-calendar>=1.0.5
+python-decouple>=3.5
+loguru>=0.5.3
